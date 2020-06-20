@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ShinyCICD is to provide a simple example of packaged Shiny app to showcase CI/CD pipelines.
+T;he goal of ShinyCICD is to provide a simple example of packaged Shiny app to showcase CI/CD pipelines.
 
 ## Installation
 
